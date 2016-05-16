@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3673DBEB-92AD-40FA-B540-8662DE8EC9E0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DDIV2.UI</RootNamespace>
+    <AssemblyName>DDI</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Network.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AuthorizeEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuthorizeEdit.Designer.cs">
+      <DependentUpon>AuthorizeEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BusinessLog.Designer.cs">
+      <DependentUpon>BusinessLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataConfig.Designer.cs">
+      <DependentUpon>DataConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExecuteOperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExecuteOperation.Designer.cs">
+      <DependentUpon>ExecuteOperation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Heavy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Heavy.Designer.cs">
+      <DependentUpon>Heavy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrgList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrgList.Designer.cs">
+      <DependentUpon>OrgList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegisterSesting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterSesting.Designer.cs">
+      <DependentUpon>RegisterSesting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FtpEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FtpEdit.Designer.cs">
+      <DependentUpon>FtpEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsersEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersEdit.Designer.cs">
+      <DependentUpon>UsersEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsersLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersLogin.Designer.cs">
+      <DependentUpon>UsersLogin.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AuthorizeEdit.resx">
+      <DependentUpon>AuthorizeEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BusinessLog.resx">
+      <DependentUpon>BusinessLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataConfig.resx">
+      <DependentUpon>DataConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExecuteOperation.resx">
+      <DependentUpon>ExecuteOperation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Heavy.resx">
+      <DependentUpon>Heavy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrgList.resx">
+      <DependentUpon>OrgList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegisterSesting.resx">
+      <DependentUpon>RegisterSesting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FtpEdit.resx">
+      <DependentUpon>FtpEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersEdit.resx">
+      <DependentUpon>UsersEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersLogin.resx">
+      <DependentUpon>UsersLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="img\add.png" />
+    <Content Include="img\delete.png" />
+    <Content Include="img\edit.png" />
+    <Content Include="img\function.png" />
+    <Content Include="img\function_group_close.png" />
+    <Content Include="img\function_group_open.png" />
+    <Content Include="img\login_bg.png" />
+    <Content Include="img\login_btn.png" />
+    <Content Include="img\root.png" />
+    <Content Include="img\setting.png" />
+    <Content Include="Network.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{c5d3c9a2-5298-4599-818e-0d4ff1b2e7d4}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{da8577af-f6f4-42f3-84dc-25406b060dfa}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DBUtility\DBUtility.csproj">
+      <Project>{0988c62e-247f-471f-a183-db509c7a3839}</Project>
+      <Name>DBUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{6c358595-6627-4201-847f-0669b56f145b}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UILib\UILib.csproj">
+      <Project>{4c051ce9-d03d-4bca-872e-d0c4e20b2004}</Project>
+      <Name>UILib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

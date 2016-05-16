@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="平台"  description="平台">
+    <siteMapNode url="right.aspx" title="相关信息"  description="相关信息" />
+    <siteMapNode url="yy_right.aspx" title="药品信息提醒"  description="药品信息提醒" />
+    <siteMapNode url="sy_right.aspx" title="药品对码提醒"  description="药品对码提醒" />
+
+    <siteMapNode url="" title="通知公告管理"  description="通知公告管理">
+      <siteMapNode url="news/list.aspx" title="通知公告列表"  description="通知公告列表" />
+      <siteMapNode url="news/add.aspx" title="通知公告添加"  description="通知公告添加" />
+      <siteMapNode url="news/modify.aspx" title="通知公告编辑"  description="通知公告编辑" />
+    </siteMapNode>
+    <!--平台管理业务子系统-->
+    <siteMapNode url="" title="系统管理"  description="系统管理">
+      <siteMapNode url="modify.aspx" title="个人信息编辑"  description="个人信息编辑" />
+      <siteMapNode url="" title="用户管理"  description="用户管理">
+        <siteMapNode url="platform/admin/list.aspx" title="平台用户管理"  description="用户列表" />
+        <siteMapNode url="platform/admin/add.aspx" title="添加平台用户"  description="添加平台用户" />
+        <siteMapNode url="platform/admin/Modify.aspx" title="编辑平台用户"  description="编辑平台用户" />
+        <siteMapNode url="platform/admin/supplier.aspx" title="供应商用户添加"  description="供应商用户添加" />
+        <siteMapNode url="platform/admin/Msupplier.aspx" title="供应商用户编辑"  description="供应商用户编辑" />
+        <siteMapNode url="platform/admin/addhospital.aspx" title="医院用户添加"  description="医院用户添加" />
+        <siteMapNode url="platform/admin/Mhospital.aspx" title="医院用户编辑"  description="医院用户编辑" />
+        <siteMapNode url="platform/admin/SetAdminMenu.aspx" title="用户权限设置"  description="用户权限设置" />
+        <siteMapNode url="platform/usertype/list.aspx" title="用户类型"  description="用户类型" />
+        <siteMapNode url="platform/usertype/add.aspx" title="用户类型添加"  description="用户类型添加" />
+        <siteMapNode url="platform/usertype/modify.aspx" title="用户类型编辑"  description="用户类型编辑" />
+      </siteMapNode>
+      <siteMapNode url="" title="菜单管理"  description="菜单管理">
+        <siteMapNode url="platform/menu/list.aspx" title="菜单列表"  description="菜单列表" />
+        <siteMapNode url="platform/menu/add.aspx" title="菜单添加"  description="菜单添加" />
+        <siteMapNode url="platform/menu/modify.aspx" title="编辑菜单"  description="编辑菜单" />
+      </siteMapNode>
+      <siteMapNode url="" title="组织机构管理"  description="组织机构管理">
+        <siteMapNode url="platform/organization/list.aspx" title="组织机构列表"  description="组织机构列表" />
+        <siteMapNode url="platform/organization/add.aspx" title="组织机构添加"  description="组织机构添加" />
+        <siteMapNode url="platform/organization/modify.aspx" title="组织机构编辑"  description="组织机构编辑" />
+      </siteMapNode>
+      <siteMapNode url="" title="医院社区管理"  description="医院社区管理">
+        <siteMapNode url="platform/Customer/list.aspx" title="医院社区列表"  description="医院社区列表" />
+        <siteMapNode url="platform/Customer/add.aspx" title="医院社区添加"  description="医院社区添加" />
+        <siteMapNode url="platform/Customer/modify.aspx" title="医院社区编辑"  description="医院社区编辑" />
+        <siteMapNode url="platform/Customer/show.aspx" title="医院社区查看"  description="医院社区查看" />
+        <siteMapNode url="platform/Department/List.aspx" title="部门管理"  description="部门管理" />
+        <siteMapNode url="platform/Department/add.aspx" title="部门添加"  description="部门添加" />
+        <siteMapNode url="platform/Department/modify.aspx" title="部门编辑"  description="部门编辑" />
+        <siteMapNode url="platform/Department/show.aspx" title="部门查看"  description="部门查看" />
+      </siteMapNode>
+      <siteMapNode url="" title="操作日志"  description="操作日志">
+        <siteMapNode url="platform/log/list.aspx" title="日志列表"  description="日志列表" />
+        <siteMapNode url="platform/edition/list.aspx" title="系统更新列表"  description="系统更新列表" />
+        <siteMapNode url="platform/edition/add.aspx" title="系统更新添加"  description="系统更新添加" />
+        <siteMapNode url="platform/edition/modify.aspx" title="系统更新编辑"  description="系统更新编辑" />
+      </siteMapNode>
+    </siteMapNode>
+    <!--医院业务业务子系统-->
+    <siteMapNode url="" title="系统管理"  description="系统管理">
+      <siteMapNode url="" title="用户管理"  description="用户管理">
+        <siteMapNode url="hospital/admin/list.aspx" title="用户列表"  description="用户列表" />
+        <siteMapNode url="hospital/admin/add.aspx" title="用户添加"  description="用户添加" />
+        <siteMapNode url="hospital/admin/modify.aspx" title="用户编辑"  description="用户编辑" />
+        <siteMapNode url="hospital/role/list.aspx" title="角色列表"  description="角色列表" />
+        <siteMapNode url="hospital/role/add.aspx" title="角色添加"  description="角色添加" />
+        <siteMapNode url="hospital/role/modify.aspx" title="角色编辑"  description="角色编辑" />
+      </siteMapNode>
+      <siteMapNode url="" title="通道管理" description="通道管理">
+        <siteMapNode url="platform/ChannelManage/List.aspx" title="通道管理" description="通道管理"/>
+      </siteMapNode>
+      <siteMapNode url="" title="模版管理" description="模版管理">
+        <siteMapNode url="hospital/template/Template.aspx" title="模版列表" description="模版列表"/>
+        <siteMapNode url="hospital/template/TemplateAdd.aspx" title="模版添加" description="模版添加"/>
+        <siteMapNode url="hospital/template/TemplateModify.aspx" title="模版编辑" description="模版编辑"/>
+        <siteMapNode url="hospital/template/TemplateItemsShow.aspx" title="模版查看" description="模版查看"/>
+      </siteMapNode>
+      <siteMapNode url="" title="部门管理" description="部门管理">
+        <siteMapNode url="hospital/department/List.aspx" title="部门列表" description="部门列表"/>
+        <siteMapNode url="hospital/department/add.aspx" title="部门添加" description="部门添加"/>
+        <siteMapNode url="hospital/department/modify.aspx" title="部门修改" description="部门修改"/>
+        <siteMapNode url="hospital/department/show.aspx" title="部门详情" description="部门详情"/>
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="" title="信息管理"  description="信息管理">
+      <siteMapNode url="hospital/ThanCode/UpdateThanCode.aspx" title="医院药品编码对照"  description="医院药品编码对照" />
+      <siteMapNode url="" title="药品字典"  description="药品字典">
+        <siteMapNode url="hospital/DrugDict/by_Basic_Drug_Dictionary/List.aspx" title="药品信息"  description="药品信息" />
+        <siteMapNode url="hospital/DrugDict/by_Basic_Drug_Dictionary/ImportDrug.aspx" title="药品信息导入"  description="药品信息导入" />
+        <siteMapNode url="hospital/DrugDict/by_Basic_Drug_Dictionary/add.aspx" title="添加药品信息"  description="添加药品信息" />
+        <siteMapNode url="hospital/DrugDict/by_Basic_Drug_Dictionary/modify.aspx" title="编辑药品信息"  description="编辑药品信息" />
+        <siteMapNode url="hospital/DrugDict/by_Basic_Drug_Dictionary/show.aspx" title="查看药品信息"  description="查看药品信息" />
+        <siteMapNode url="hospital/DrugDict/DrugClass/List.aspx" title="药品分类"  description="药品分类" />
+        <siteMapNode url="hospital/DrugDict/DrugClass/add.aspx" title="添加药品分类"  description="添加药品分类" />
+        <siteMapNode url="hospital/DrugDict/DrugClass/modify.aspx" title="编辑药品分类"  description="编辑药品分类" />
+        <siteMapNode url="hospital/DrugDict/DrugClass/show.aspx" title="查看药品分类"  description="查看药品分类" />
+        <siteMapNode url="hospital/DrugDict/ToxiProperty/List.aspx" title="毒品分类"  description="毒品分类" />
+        <siteMapNode url="hospital/DrugDict/ToxiProperty/add.aspx" title="添加毒品分类"  description="添加毒品分类" />
+        <siteMapNode url="hospital/DrugDict/ToxiProperty/modify.aspx" title="编辑毒品分类"  description="编辑毒品分类" />
+        <siteMapNode url="hospital/DrugDict/ToxiProperty/show.aspx" title="查看毒品分类"  description="查看毒品分类" />
+      </siteMapNode>
+      <siteMapNode url="" title="药品价格"  description="药品价格">
+        <siteMapNode url="hospital/DrugPrices/PriceChanges/List.aspx" title="调整价格"  description="调整价格" />
+        <siteMapNode url="hospital/DrugPrices/PriceHistorical/List.aspx" title="价格历史"  description="价格历史" />
+      </siteMapNode>
+      <siteMapNode url="" title="库房维护"  description="库房维护">
+        <siteMapNode url="hospital/StoreInofo/Warehouse/List.aspx" title="仓库信息管理"  description="仓库信息管理" >
+          <siteMapNode url="hospital/StoreInofo/Zone/List.aspx" title="区域信息管理"  description="区域信息管理" />
+          <siteMapNode url="" title="区域信息管理"  description="区域信息管理" >
+            <siteMapNode url="hospital/StoreInofo/Local/List.aspx" title="货位信息管理"  description="货位信息管理" />
+            <siteMapNode url="hospital/StoreInofo/Local/add.aspx" title="货位信息添加"  description="货位信息添加" />
+            <siteMapNode url="hospital/StoreInofo/Local/modify.aspx" title="货位信息编辑"  description="货位信息编辑" />
+            <siteMapNode url="hospital/StoreInofo/Local/show.aspx" title="货位信息查看"  description="货位信息查看" />
+          </siteMapNode>
+          <siteMapNode url="hospital/StoreInofo/Zone/add.aspx" title="区域信息添加"  description="区域信息添加" />
+          <siteMapNode url="hospital/StoreInofo/Zone/modify.aspx" title="区域信息编辑"  description="区域信息编辑" />
+          <siteMapNode url="hospital/StoreInofo/Zone/show.aspx" title="区域信息查看"  description="区域信息查看" />
+        </siteMapNode>
+        <siteMapNode url="hospital/StoreInofo/Warehouse/add.aspx" title="仓库信息添加"  description="仓库信息添加" />
+        <siteMapNode url="hospital/StoreInofo/Warehouse/modify.aspx" title="仓库信息编辑"  description="仓库信息编辑" />
+        <siteMapNode url="hospital/StoreInofo/Warehouse/show.aspx" title="仓库信息查看"  description="仓库信息查看" />
+        <siteMapNode url="hospital/StoreInofo/Location/List.aspx" title="货位信息管理"  description="货位信息管理" />
+        <siteMapNode url="hospital/StoreInofo/Location/add.aspx" title="货位信息添加"  description="货位信息添加" />
+        <siteMapNode url="hospital/StoreInofo/Location/modify.aspx" title="货位信息编辑"  description="货位信息编辑" />
+        <siteMapNode url="hospital/StoreInofo/Location/show.aspx" title="货位信息查看"  description="货位信息查看" />
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="" title="订单管理"  description="订单管理">
+      <siteMapNode url="" title="电子发票管理"  description="电子发票管理">
+        <siteMapNode url="hospital/dzfp/exportdzfp/list.aspx" title="下载电子发票"  description="下载电子发票" />
+        <siteMapNode url="hospital/dzfp/importdzfp/list.aspx" title="上传发票反馈"  description="上传发票反馈" />
+      </siteMapNode>
+      <siteMapNode url="" title="电子发票"  description="电子发票">
+        <siteMapNode url="hospital/EInvoic/Importdzfp/importExcel.aspx" title="导入电子发票"  description="导入电子发票" ></siteMapNode>
+        <siteMapNode url="hospital/EInvoic/RF/updateDzfp.aspx" title="RF收货"  description="RF收货" ></siteMapNode>
+        <siteMapNode url="hospital/EInvoic/Receipt/List.aspx" title="收获核准"  description="收获核准" ></siteMapNode>
+        <siteMapNode url="hospital/EInvoic/Approved/List.aspx" title="发票核准"  description="发票核准" ></siteMapNode>
+        <siteMapNode url="hospital/EInvoic/ExportFK/List.aspx" title="导出反馈"  description="导出反馈" ></siteMapNode>
+        <siteMapNode url="hospital/EInvoic/Export/List.aspx" title="HIS入库"  description="HIS入库" ></siteMapNode>
+        <siteMapNode url="hospital/dzfp/ExportDzfp/templateExport.aspx" title="电子发票导出"  description="电子发票导出" ></siteMapNode>
+        <siteMapNode url="hospital/EInvoic/dzfpInfo/List.aspx" title="查询电子发票"  description="查询电子发票" ></siteMapNode>
+        <siteMapNode url="hospital/dzfp/ExportDzfp/SQelectrInvoice.aspx" title="社区电子发票导出"  description="社区电子发票导出" ></siteMapNode>
+        <siteMapNode url="hospital/dzfp/ExportDzfp/SQeastelectrInvoice.aspx" title="社区电子发票导出"  description="社区电子发票导出" ></siteMapNode>
+        <siteMapNode url="hospital/dzfp/dzfpPrint.aspx" title="打印二维码" description="打印二维码"/>
+        <siteMapNode url="hospital/dzfp/dzfpPrintCode.aspx" title="打印二维码Urlcode" description="打印二维码Urlcode"/>
+        <siteMapNode url="hospital/dzfp/ExportDzfp/SynchronizationDzfp.aspx" title="同步到货信息" description="同步到货信息"/>
+        <siteMapNode url="hospital/dzfp/ExportDzfp/SyncUploadDzfp.aspx" title="上传同步到货" description="上传同步到货"/>
+        <siteMapNode url="hospital/dzfp/ExportDzfp/SyncUploadDzfpList.aspx" title="查询同步到货" description="查询同步到货"/>
+      </siteMapNode>
+      <siteMapNode url="" title="订单跟踪"  description="订单跟踪">
+        <siteMapNode url="hospital/OrderTrace/list.aspx" title="订单执行状态查询"  description="订单执行状态查询" />
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="" title="采购管理"  description="采购管理">
+      <siteMapNode url="" title="采购计划"  description="采购计划">
+        <siteMapNode url="hospital/CGManage/CGupload/List.aspx" title="上传采购计划"  description="上传采购计划" />
+        <siteMapNode url="hospital/CGManage/CGApproved/sysOrderList.aspx" title="采购计划审核"  description="采购计划审核" />
+        <siteMapNode url="hospital/CGManage/CGApproved/List.aspx" title="采购计划明细"  description="采购计划明细" />
+        <siteMapNode url="hospital/CGManage/CGErr/List.aspx" title="错误采购计划"  description="错误采购计划" />
+        <siteMapNode url="hospital/CGManage/CGConfirm/FeedBackOrderList.aspx" title="采购计划交互"  description="采购计划交互" />
+        <siteMapNode url="hospital/CGManage/CGConfirm/FBOrderItemList.aspx" title="采购计划项明细"  description="采购计划项明细" />
+        <siteMapNode url="hospital/CGManage/CGConfirm/SynchronizationOrderList.aspx" title="同步采购计划" description="同步采购计划"/>
+        <siteMapNode url="hospital/CGManage/CGdownlosd/List.aspx" title="采购计划导入导出"  description="采购计划导入导出" />
+      </siteMapNode>
+    </siteMapNode>
+    <!--商业公司（供应商）业务子系统-->
+    <siteMapNode url="" title="商业系统管理"  description="商业系统管理">
+      <siteMapNode url="" title="用户管理"  description="用户管理">
+        <siteMapNode url="supplier/admin/list.aspx" title="用户管理"  description="用户管理" />
+        <siteMapNode url="supplier/admin/add.aspx" title="用户添加"  description="用户添加" />
+        <siteMapNode url="supplier/admin/Modify.aspx" title="用户编辑"  description="用户编辑" />
+        <siteMapNode url="supplier/admin/setadminmenu.aspx" title="设置权限"  description="设置权限" />
+        <siteMapNode url="supplier/role/list.aspx" title="角色管理"  description="角色管理" />
+        <siteMapNode url="supplier/role/add.aspx" title="角色添加"  description="角色添加" />
+        <siteMapNode url="supplier/role/Modify.aspx" title="角色编辑"  description="角色编辑" />
+      </siteMapNode>
+      <siteMapNode url="" title="厂家管理"  description="厂家管理">
+        <siteMapNode url="maker/login/list.aspx" title="厂家列表"  description="厂家列表" />
+        <siteMapNode url="maker/login/add.aspx" title="厂家添加"  description="厂家添加" />
+        <siteMapNode url="maker/login/Modify.aspx" title="厂家编辑"  description="厂家编辑" />
+        <siteMapNode url="maker/login/manageGoods.aspx" title="品种管理"  description="品种管理" />
+        <siteMapNode url="maker/login/SetMakerMenu.aspx" title="设置权限"  description="设置权限" />
+        <siteMapNode url="supplier/role/mlist.aspx" title="角色管理"  description="角色管理" />
+        <siteMapNode url="supplier/role/madd.aspx" title="角色添加"  description="角色添加" />
+        <siteMapNode url="supplier/role/mmodify.aspx" title="角色编辑"  description="角色编辑" />
+        <siteMapNode url="supplier/HYDEE/list.aspx" title="商业厂家列表"  description="商业厂家列表" />
+        <siteMapNode url="supplier/HYDEE/add.aspx" title="商业厂家添加"  description="商业厂家添加" />
+        <siteMapNode url="supplier/HYDEE/Modify.aspx" title="商业厂家编辑"  description="商业厂家编辑" />
+        <siteMapNode url="supplier/HYDEE/ManageGoods.aspx" title="商业品种管理"  description="商业品种管理" />
+        <siteMapNode url="supplier/HYDEE/SetMakerMenu.aspx" title="商业设置权限"  description="商业设置权限" />
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="" title="电子发票管理"  description="电子发票管理">
+      <siteMapNode url="" title="电子发票"  description="电子发票">
+        <siteMapNode url="supplier/VendorManage/CodeView/CodeView.aspx" title="医院科室浏览"  description="医院科室浏览" />
+        <siteMapNode url="supplier/VendorManage/dzfpUpload/UploadExcel.aspx" title="上传电子发票"  description="上传电子发票" />
+        <siteMapNode url="supplier/VendorManage/PrintDzfp2/List.aspx" title="打印二维条码" description="打印二维条码"/>
+        <siteMapNode url="supplier/VendorManage/PrintDzfpCode/List.aspx" title="打印二维码Urlcode" description="打印二维码Urlcode"/>
+        <siteMapNode url="supplier/VendorManage/FedBackdzfp/List.aspx" title="收货信息反馈"  description="收货信息反馈" />
+        <siteMapNode url="supplier/VendorManage/dzfpInfo/List.aspx" title="304电子发票查询" description="304电子发票查询"/>
+        <siteMapNode url="supplier/VendorManage/dzfpInfo/List2.aspx" title="电子发票查询" description="电子发票查询"/>
+        <siteMapNode url="supplier/VendorManage/ErrDzfp/List.aspx" title="错误电子发票" description="错误电子发票"/>
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="" title="药品编码对照"  description="药品编码对照">
+      <siteMapNode url="" title="药品编码对照"  description="药品编码对照">
+        <siteMapNode url="supplier/VendorManage/thandrugcode/ThanUpload.aspx" title="上传对码信息"  description="上传对码信息" />
+        <siteMapNode url="supplier/VendorManage/thandrugcode/list.aspx" title="药品编码对照"  description="药品编码对照" />
+        <siteMapNode url="supplier/VendorManage/thandrugcode/Modify.aspx" title="药品编码对照维护"  description="药品编码对照维护" />
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="" title="采购管理"  description="采购管理">
+      <siteMapNode url="" title="采购订单"  description="采购订单">
+        <siteMapNode url="supplier/VendorManage/CGFeedback/CGSysOrderNOList.aspx" title="采购订单"  description="采购订单" />
+        <siteMapNode url="supplier/VendorManage/CGFeedback/FeedbackList.aspx" title="采购订单项列表"  description="采购订单项列表" />
+        <siteMapNode url="supplier/VendorManage/CGFeedback/FeedbackAdd.aspx" title="采购订单项反馈"  description="采购订单项反馈" />
+        <siteMapNode url="supplier/VendorManage/CGFeedback/FeedbackList1.aspx" title="采购订单导出"  description="采购订单导出" />
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="" title="成本核算"  description="成本核算">
+      <siteMapNode url="" title="成本核算"  description="成本核算">
+        <siteMapNode url="supplier/OfficeStaff/uploadCosting.aspx" title="三级成本核算上传"  description="三级成本核算上传" />
+        <siteMapNode url="supplier/OfficeStaff/costing.aspx" title="三级成本核算"  description="三级成本核算" />
+        <siteMapNode url="supplier/OfficeStaff/bonusmanage.aspx" title="管理奖金考核表"  description="管理奖金考核表" />
+        <siteMapNode url="supplier/OfficeStaff/bonuslist.aspx" title="奖金考核查询"  description="奖金考核查询" />
+        <siteMapNode url="supplier/OfficeStaff/bonusUploadManage.aspx" title="二级成本管理"  description="二级成本管理" />
+        <siteMapNode url="supplier/OfficeStaff/bonusUploadList.aspx" title="二级成本核算"  description="二级成本核算" />
+        <siteMapNode url="supplier/OfficeStaff/Rebate/manage.aspx" title="净利润调整管理"  description="净利润调整管理" />
+        <siteMapNode url="supplier/OfficeStaff/Rebate/checklist.aspx" title="净利润调整审核"  description="净利润调整审核" />
+        <siteMapNode url="supplier/OfficeStaff/Discount/manage.aspx" title="折扣折让"  description="折扣折让" />
+      </siteMapNode>
+      <siteMapNode url="" title="成本权限管理"  description="成本权限管理">
+        <siteMapNode url="supplier/department/list.aspx" title="部门管理"  description="部门管理" />
+        <siteMapNode url="supplier/OfficeStaff/List.aspx" title="关联部门设置"  description="关联部门设置" />
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="" title="付款查询"  description="付款查询">
+      <siteMapNode url="" title="付款查询"  description="付款查询">
+        <siteMapNode url="supplier/OfficeStaff/CustomerReceivablesList.aspx" title="应付查询"  description="应付查询" />
+        <siteMapNode url="supplier/OfficeStaff/CustomerPaidList.aspx" title="已付查询"  description="已付查询" />
+      </siteMapNode>
+      <siteMapNode url="" title="订单跟踪"  description="订单跟踪">
+        <siteMapNode url="supplier/OrderTrace/list.aspx" title="订单跟踪"  description="订单跟踪" />
+      </siteMapNode>
+      <siteMapNode url="" title="库存查询"  description="库存查询">
+        <siteMapNode url="supplier/stored/search.aspx" title="库存量查询"  description="库存量查询" />
+        <siteMapNode url="supplier/stored/ReserveSearch.aspx" title="储备品查询"  description="储备品查询" />
+      </siteMapNode>
+    </siteMapNode>
+
+    <siteMapNode url="" title="报表查询"  description="报表查询">
+      <siteMapNode url="" title="报表查询"  description="报表查询">
+        <siteMapNode url="supplier/Commerces/AcceptList.aspx" title="采购查询"  description="采购查询" />
+        <siteMapNode url="supplier/Commerces/SaleList.aspx" title="销售查询"  description="销售查询" />
+        <siteMapNode url="supplier/Commerces/StoreList.aspx" title="库存查询"  description="库存查询" />
+      </siteMapNode>
+    </siteMapNode>
+    <!--厂家查账查询业务子系统-->
+    <siteMapNode url="" title="厂家系统管理"  description="商业系统管理">
+      <siteMapNode url="" title="销售统计分析"  description="销售统计分析">
+        <siteMapNode url="maker/userFunctions/SalesStatistics.aspx" title="销售按客商汇总"  description="销售按客商汇总" />
+      </siteMapNode>
+      <siteMapNode url="" title="结存管理"  description="结存管理">
+        <siteMapNode url="maker/userFunctions/MakerInventory.aspx" title="结存查询"  description="结存查询" />
+        <siteMapNode url="maker/userFunctions/ReceiveDetailsPHXQ.aspx" title="带批号效期结存"  description="带批号效期结存" />
+        <siteMapNode url="maker/userFunctions/ReceiveDetailsPH.aspx" title="带批号结存"  description="带批号结存" />
+        <siteMapNode url="maker/userFunctions/LocStored.aspx" title="结存查询"  description="结存查询" />
+        <siteMapNode url="maker/userFunctions/UnsalableStored.aspx" title="滞销品结存查询"  description="滞销品结存查询" />
+      </siteMapNode>
+      <siteMapNode url="" title="进货明细"  description="进货明细">
+        <siteMapNode url="maker/userFunctions/ReceiveDetails.aspx" title="进货明细查询"  description="进货明细查询" />
+      </siteMapNode>
+      <siteMapNode url="" title="销售明细管理"  description="销售明细管理">
+        <siteMapNode url="maker/userFunctions/SalesDetails.aspx" title="销售明细数据(全部)"  description="销售明细数据(全部)" />
+        <siteMapNode url="maker/userFunctions/SalesDetailsZB.aspx" title="销售明细数据(招标)"  description="销售明细数据(招标)" />
+        <siteMapNode url="maker/userFunctions/SalesDetailsYL.aspx" title="销售明细数据(医疗)"  description="销售明细数据(医疗)" />
+        <siteMapNode url="maker/userFunctions/SalesDetailsSY.aspx" title="销售明细数据(商业)"  description="销售明细数据(商业)" />
+        <siteMapNode url="maker/userFunctions/SalesDetailsJG.aspx" title="销售明细数据(价格)"  description="销售明细数据(价格)" />
+        <siteMapNode url="maker/userFunctions/SalesDetailsPH.aspx" title="销售明细数据(社区)"  description="销售明细数据(社区)" />
+        <siteMapNode url="maker/userFunctions/SalesDetailsSearch.aspx" title="销售明细数据"  description="销售明细数据" />
+      </siteMapNode>
+      <siteMapNode url="" title="采购计划"  description="采购计划">
+        <siteMapNode url="maker/userFunctions/PurchasePlan.aspx" title="采购计划查询"  description="采购计划查询" />
+      </siteMapNode>
+      <siteMapNode url="" title="药监码查询"  description="药监码查询">
+        <siteMapNode url="maker/userFunctions/SalesDrugControl.aspx" title="药监码查询"  description="药监码查询" />
+      </siteMapNode>
+    </siteMapNode>
+
+    <siteMapNode url="" title="商业厂家查询"  description="商业厂家查询">
+      <siteMapNode url="" title="商业厂家查询"  description="商业厂家查询">
+        <siteMapNode url="maker/HYDEE/SearchBatsaleList.aspx" title="厂家销售查询"  description="厂家销售查询" />
+        <siteMapNode url="maker/HYDEE/SearchAcceptList.aspx" title="厂家进货查询"  description="厂家进货查询" />
+        <siteMapNode url="maker/HYDEE/SearchStoreList.aspx" title="厂家库存查询"  description="厂家库存查询" />
+      </siteMapNode>
+    </siteMapNode>
+    
+    
+    
+    
+    
+    
+    <siteMapNode url="" title="业务管理"  description="业务管理">
+      <siteMapNode url="" title="数据生成管理"  description="数据生成管理">
+        <siteMapNode url="DDI/DdiConfigList.aspx" title="配置列表"  description="配置列表" />
+        <siteMapNode url="DDI/FileDownloadList.aspx" title="文件下载"  description="文件下载" />
+        <siteMapNode url="DDI/FileDownloadEdit.aspx" title="文件下载"  description="文件下载" />
+        <siteMapNode url="DDI/DdiConfigEdit.aspx" title="配置信息"  description="配置信息" />
+        <siteMapNode url="DDI/DdiExecuteLogList.aspx" title="执行日志"  description="执行日志" />
+        <siteMapNode url="DDI/HeavyMiningExecuteConfig.aspx" title="重采"  description="重采" />
+        <siteMapNode url="UsersPwdEidt.aspx" title="修改密码"  description="修改密码" />
+      </siteMapNode>
+     
+    </siteMapNode>
+    <siteMapNode url="" title="权限管理"  description="业务管理">
+      <siteMapNode url="" title="权限配置"  description="权限配置">
+        <siteMapNode url="DDI/UserMenu.aspx" title="用户权限配置"  description="用户权限配置" />
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="" title="基础数据"  description="基础数据">
+      <siteMapNode url="" title="直连药品"  description="直连药品">
+        <siteMapNode url="DDI/SupDrugList.aspx" title="直连药品管理"  description="直连药品管理" />
+        <siteMapNode url="DDI/SupDrugEdit.aspx" title="直连药品添加"  description="直连药品添加" />
+      </siteMapNode>
+      <siteMapNode url="" title="供应商信息"  description="供应商信息">
+        <siteMapNode url="BaseData/SupUsersRelationList.aspx" title="用户供应商管理"  description="用户供应商管理" />
+        <siteMapNode url="BaseData/SupAndDrugRelation.aspx" title="供应商药品管理"  description="供应商药品管理" />
+        <siteMapNode url="BaseData/SupAndDrugRelationEdit.aspx" title="供应商药品添加"  description="供应商药品添加" />
+        <siteMapNode url="DDI/SupUsersList.aspx" title="供应商信息"  description="供应商信息" />
+      </siteMapNode>
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

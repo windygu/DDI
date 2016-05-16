@@ -1,0 +1,116 @@
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\DDIWebApp.dll
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\DDIWebApp.pdb
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\AjaxControlToolkit.dll
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\BLL.dll
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\ICSharpCode.SharpZipLib.dll
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\Maticsoft.Common.dll
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\Model.dll
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\DAL.dll
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\NPOI.dll
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\huaruncms.DBUtility.dll
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\NPOI.OOXML.dll
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\MySql.Data.dll
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\System.Data.SQLite.dll
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\NPOI.OpenXmlFormats.dll
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\NPOI.OpenXml4Net.dll
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\BLL.pdb
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\Maticsoft.Common.pdb
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\Model.pdb
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\DAL.pdb
+D:\Source Code\vs\DDIWebApp\DDIWebApp\bin\huaruncms.DBUtility.pdb
+D:\Source Code\vs\DDIWebApp\DDIWebApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Source Code\vs\DDIWebApp\DDIWebApp\obj\Debug\DDIWebApp.dll
+D:\Source Code\vs\DDIWebApp\DDIWebApp\obj\Debug\DDIWebApp.pdb
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\DDIWebApp.dll
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\DDIWebApp.pdb
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\AjaxControlToolkit.dll
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\BLL.dll
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\ICSharpCode.SharpZipLib.dll
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\Maticsoft.Common.dll
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\Model.dll
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\DAL.dll
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\NPOI.dll
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\huaruncms.DBUtility.dll
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\NPOI.OOXML.dll
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\MySql.Data.dll
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\System.Data.SQLite.dll
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\NPOI.OpenXmlFormats.dll
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\NPOI.OpenXml4Net.dll
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\BLL.pdb
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\Maticsoft.Common.pdb
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\Model.pdb
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\DAL.pdb
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\bin\huaruncms.DBUtility.pdb
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\obj\Debug\DDIWebApp.dll
+D:\Source Code\vs\2.CODE\DDIWebApp\DDIWebApp\obj\Debug\DDIWebApp.pdb
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\DDIWebApp.dll
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\DDIWebApp.pdb
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\AjaxControlToolkit.dll
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\BLL.dll
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\ICSharpCode.SharpZipLib.dll
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\Maticsoft.Common.dll
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\Model.dll
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\DAL.dll
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\NPOI.dll
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\huaruncms.DBUtility.dll
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\NPOI.OOXML.dll
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\MySql.Data.dll
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\System.Data.SQLite.dll
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\NPOI.OpenXmlFormats.dll
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\NPOI.OpenXml4Net.dll
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\BLL.pdb
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\Maticsoft.Common.pdb
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\Model.pdb
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\DAL.pdb
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\huaruncms.DBUtility.pdb
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\obj\Debug\DDIWebApp.csprojResolveAssemblyReference.cache
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\obj\Debug\DDIWebApp.dll
+D:\SourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\obj\Debug\DDIWebApp.pdb
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\DDIWebApp.dll
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\DDIWebApp.pdb
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\AjaxControlToolkit.dll
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\BLL.dll
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\ICSharpCode.SharpZipLib.dll
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\Maticsoft.Common.dll
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\Model.dll
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\DAL.dll
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\NPOI.dll
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\Oracle.ManagedDataAccess.dll
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\huaruncms.DBUtility.dll
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\NPOI.OOXML.dll
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\MySql.Data.dll
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\System.Data.SQLite.dll
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\NPOI.OpenXmlFormats.dll
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\NPOI.OpenXml4Net.dll
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\BLL.pdb
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\Maticsoft.Common.pdb
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\Model.pdb
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\DAL.pdb
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\bin\huaruncms.DBUtility.pdb
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\obj\Debug\DDIWebApp.csprojResolveAssemblyReference.cache
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\obj\Debug\DDIWebApp.dll
+D:\SVNSourceCode\DDIDoNet\DDIDoNet\2.CODE\DDIWebApp\DDIWebApp\obj\Debug\DDIWebApp.pdb
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\DDIWebApp.dll.config
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\DDIWebApp.dll
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\DDIWebApp.pdb
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\AjaxControlToolkit.dll
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\Common.dll
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\DDIV.DAL.dll
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\ICSharpCode.SharpZipLib.dll
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\Model.dll
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\Oracle.ManagedDataAccess.dll
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\NPOI.dll
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\huaruncms.DBUtility.dll
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\NPOI.OOXML.dll
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\System.Data.SQLite.dll
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\MySql.Data.dll
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\NPOI.OpenXmlFormats.dll
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\NPOI.OpenXml4Net.dll
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\Common.pdb
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\DDIV.DAL.pdb
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\Model.pdb
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\bin\huaruncms.DBUtility.pdb
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\obj\Debug\DDIWebApp.csprojResolveAssemblyReference.cache
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\obj\Debug\DDIWebApp.dll
+D:\Software\SourceCode\DDIDoNet\DDIV2\DDIWebApp\obj\Debug\DDIWebApp.pdb

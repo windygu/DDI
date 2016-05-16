@@ -1,0 +1,11 @@
+﻿body, html{
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px;
+	font-size: 12px; background-color:#fcfcfc;height:100%
+}
+.GridViewSelectedRowStyle
+{
+    border-style: solid;
+    border-width: 1px;
+    background-color: #A4E1FF;
+}

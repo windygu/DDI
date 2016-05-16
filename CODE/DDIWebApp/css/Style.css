@@ -1,0 +1,68 @@
+body, html{
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px;
+	font-size: 12px; background-color:#fcfcfc;height:100%
+}
+
+a{text-decoration:none;font-size: 12px;}
+table {font-size: 12px;}
+
+.divsitemap{ height:35px}
+.sitemap{height:28px; background:url(../images/right_03.gif); line-height:28px; padding-left:10px; position:fixed;_position: fixed;width:100%;}
+.sitemap_line{ background:url(../images/right_09.gif); height:5px; position:fixed;_position: fixed;width:100%;top:28px}
+.tableline {
+    background-color: #82BCBD;
+    height: 22px;
+}
+.tableline td {
+    background-color: #FFFFFF;
+    height: 22px;
+}
+.tableline th {
+    background-color: #efefef;
+    height: 22px;
+}
+/*gridview统一样式*/
+
+.GridFrame
+{
+	background-color:#82BCBD; border-color:#82BCBD;
+	font-size:12px;
+}
+.GridItem td {background-color: #ffffff;height: 22px;}
+.GridAlter td
+{
+    background-color: #f9f9f9;
+    height: 22px;
+}
+.GridItem
+{
+    background-color: #ffffff;
+    height: 22px;
+}
+
+.GridEdit
+{
+    background-color: #ffffff;
+    height: 22px;
+}
+
+.GridHeader
+{
+    
+    background-color: #ffffff;
+    height: 22px;
+}
+.GridHeader th
+{
+    
+    background-color: #efefef;
+    height: 22px;
+}
+
+.GridAlter
+{
+    
+    background-color: #ffffff;
+    height: 22px;
+}
